@@ -1,4 +1,5 @@
 from aiogram import Dispatcher
+from .my_filter import MyFilter
 
 
 # from .is_admin import AdminFilter
